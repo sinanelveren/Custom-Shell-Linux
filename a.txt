@@ -1,0 +1,20 @@
+Regular file.....	rw-r--r--	3424 bytes	111044074_wc.o
+Regular file.....	rw-r--r--	14232 bytes	111044074_main.o
+Regular file.....	rwxr-xr-x	10064 bytes	ls
+Regular file.....	rwxr-xr-x	19248 bytes	GTU_Shell
+Regular file.....	rw-r--r--	2456 bytes	111044074_wc.c
+Regular file.....	rw-r--r--	3360 bytes	111044074_cat.o
+Regular file.....	rwxr-xr-x	9784 bytes	cat
+Directory........	rwxr-xr-x	4096 bytes	.idea
+Directory........	rwxr-xr-x	4096 bytes	..
+Regular file.....	rw-r--r--	11777 bytes	111044074_main.c
+Regular file.....	rw-r--r--	0 bytes	txt
+Regular file.....	rwxr-xr-x	541 bytes	makefile
+Regular file.....	rw-r--r--	5696 bytes	111044074_ls.o
+Regular file.....	rw-r--r--	0 bytes	a.txt
+Regular file.....	rw-r--r--	6218 bytes	111044074_ls.c
+Regular file.....	rw-r--r--	161 bytes	CMakeLists.txt
+Directory........	rwxr-xr-x	4096 bytes	cmake-build-debug
+Regular file.....	rw-r--r--	3051 bytes	111044074_cat.c
+Directory........	rwxr-xr-x	4096 bytes	.
+Regular file.....	rwxr-xr-x	9784 bytes	wc

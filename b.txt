@@ -1,0 +1,11 @@
+Regular file.....	rw-r--r--	61153 bytes	yedek_dup.zip
+Regular file.....	rw-r--r--	62924 bytes	yedek_ls.zip
+Regular file.....	rw-r--r--	62249 bytes	yedek_ls_file.zip
+Regular file.....	rw-r--r--	61389 bytes	yedek_pwd.zip
+Regular file.....	rw-r--r--	62887 bytes	yedek.zip
+Regular file.....	rw-r--r--	62365 bytes	yedek_wc.zip
+Directory........	rwxr-xr-x	4096 bytes	..
+Directory........	rwxr-xr-x	4096 bytes	clion
+Regular file.....	rw-r--r--	0 bytes	a.txt
+Regular file.....	rw-r--r--	161 bytes	CMakeLists.txt
+Directory........	rwxr-xr-x	4096 bytes	.
